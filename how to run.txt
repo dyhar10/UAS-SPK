@@ -1,0 +1,22 @@
+extract, put folder to xampp/htdoct or laragon/www
+
+cd spk-ahp
+
+run cmd
+
+Run composer install
+
+load and run sql file
+
+Run php artisan key:generate
+
+Run php artisan storage:link
+
+Run php artisan serve
+
+run on web 127.0.0.1:8000/login
+
+username :randy@randy.com
+pass : 123456
+
+Done.
